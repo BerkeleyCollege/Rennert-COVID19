@@ -12,6 +12,9 @@
   </Properties>
 
   <AppPrincipal>
-    <RemoteWebApplication ClientId="*" />
+    <RemoteWebApplication ClientId="c6eff9dd-ef77-44e8-a1e5-9e7cdb5b0a00" />
   </AppPrincipal>
+  <AppPermissionRequests AllowAppOnlyPolicy="true">
+    <AppPermissionRequest Scope="http://sharepoint/content/sitecollection" Right="Write" />
+  </AppPermissionRequests>
 </App>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5c594099-ae48-4dde-b152-02577f2ae4e9" solutionId="5c594099-ae48-4dde-b152-02577f2ae4e9" resetWebServer="false" sharePointProductVersion="15.0" name="Rennert-COVID19" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="49da452b-a49d-44ec-8b95-dc9593e83589" />
+  </features>
+</package>
