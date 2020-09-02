@@ -139,6 +139,7 @@
                             <label>Have you traveled within the past 14 days: 1) internationally; or 2) via cruise ship; or 3) to one or more of the following states/territories?  </label>
                             <ul class="list-group twoC">
                                 <li>Alabama</li>
+                                <li>Alaska</li>
                                 <li>Arkansas</li>
                                 <li>California</li>
                                 <li>Florida</li>
@@ -155,6 +156,7 @@
                                 <li>Minnesota</li>
                                 <li>Mississippi</li>
                                 <li>Missouri</li>
+                                <li>Montana</li>
                                 <li>Nebraska</li>
                                 <li>Nevada</li>
                                 <li>North Carolina</li>
@@ -168,7 +170,6 @@
                                 <li>Utah</li>
                                 <li>Virgin Islands</li>
                                 <li>Virginia</li>
-                                <li>Washington</li>
                                 <li>Wisconsin</li>
                             </ul>
                             <asp:DropDownList CssClass="form-control ddlist shownElement" ID="question5" runat="server" onchange="questResults()">
